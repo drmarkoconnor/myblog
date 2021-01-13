@@ -1,0 +1,146 @@
+---
+layout: post
+current: post
+cover: assets/images/us-33.jpg
+navigation: true
+title: Markup is converted to html by tiinderbox
+date: 2020-01-08T20:12:28Z
+tags: git
+class: post=template
+subclass: post
+author: mark
+logo: 
+disqus: true
+
+---
+<h1>git: Basic git set up for new projects including making/deleting a branch</h1>
+
+<h2>git [command] [--flag] [arguments]</h2>
+
+<ul>
+<li><code>inside moc/repos</code></li>
+<li><code>mkdir [name of your new project]</code></li>
+<li><code>cd [name of your new project]</code> 
+<blockquote>
+  <p>( move to the new directory )</li>
+<li><code>git init</code>
+These are the basic steps to create a project that can be then version controlled by github.
+git will confirm that a .git directory has been created</li>
+</ul>
+
+<p><code>ls -la</code>
+will show the . .. .git structure now inside the new project</p>
+</blockquote></p>
+
+<p><code>
+echo &gt;fileA.txt
+</code></p>
+
+<blockquote>
+  <p>this CLI creates an empty txt file</p>
+</blockquote>
+
+<ul>
+<li><p><code>git add fileA.txt</code></p>
+
+<blockquote>
+  <p>this adds the file to the <strong>staging area</strong></p>
+</blockquote>
+
+<p><ul>
+<li><code>git commit -m '_message_'</code></p>
+
+<blockquote>
+  <p>there are other -switches like -verbose</li>
+</ul></p>
+</blockquote></li>
+</ul>
+
+<p><code>git branch</code></p>
+
+<blockquote>
+  <p>will list all the branches in the repos project and an asterisk indicates the current one</p>
+</blockquote>
+
+<h3>two command approach</h3>
+
+<ul>
+<li><code>git branch featureX</code></li>
+<li><code>git checkout featureX</code></li>
+</ul>
+
+<h3>one command approach</h3>
+
+<ul>
+<li><code>git checkout -b featureX</code></li>
+</ul>
+
+<h3>use the log function with graph to check</h3>
+
+<ul>
+<li><p><code>git log --oneline --graph</code></p></li>
+<li><p><code>git checkout [name of branch]</code></p>
+
+<blockquote>
+  <p>this allows switching between branches</p>
+</blockquote></li>
+</ul>
+
+<h2>File changes on branches</h2>
+
+<ol>
+<li>change the contents of the file whilst in the new branch</li>
+<li>then change back to the master branch <code>git checkout master</code></li>
+<li>open file and you will see that the changes to the file are not present ( as they were made under the featureX branch of which the master branch has no knowledge )</li>
+</ol>
+
+<blockquote>
+  <p><code>use git log --oneline --graph --all</code> to see all the commits attached to the branches in the repo</p>
+
+<p>featureX branch has a more recent commit. Check back into this branch now</p>
+</blockquote>
+
+<ul>
+<li><code>git checkout featureX</code> </li>
+</ul>
+
+<blockquote>
+  <p>add another change to the file and add it to stage and then commit it.
+There are now two commits on the featureX branch
+can use the <code>HEAD~</code> tilde mark to checkout a previous commit</p>
+</blockquote>
+
+<p><code>git checkout HEAD~</code></p>
+
+<blockquote>
+  <p>this will raise a warning about a DETACHED HEAD state</p>
+</blockquote>
+
+<ul>
+<li>go back to master ( by <code>git checkout master</code> )</li>
+</ul>
+
+<p>Let's say that you <strong>don't want to merge</strong> any changes made on the new file ( merging coming later )  and want to delete the branch <strong>featureX</strong></p>
+
+<p><code>git branch  -d featureX</code></p>
+
+<p>This however will only produce a warning becasue there are two commits that will be left dangling. If you want to keep them you could create a new branch for them.</p>
+
+<p>However the warning gives information about how you can delete with a -D option switch.</p>
+
+<ul>
+<li><p>ie <code>git branch  -D featureX</code></p>
+
+<ul>
+<li>use <code>git log</code> and <code>git status</code> frequently to see where you are</li>
+</ul></li>
+</ul>
+
+<p>(If you are interested) Want to "undo" the deleting of the featureX branch?
+Execute <code>git reflog</code> . This shows the local history of HEAD references. Since Git doesn't immediately delete commits, you can find the SHA-1 of your most recent featureX branch there.</p>
+
+<p>Copy the SHA-1 of the "add feature bigger mistake" commit. Execute git checkout <strong>-b</strong> <code>[this switch doesn't seem to work]??</code> featureX [SHA-1 YOU COPIED] .</p>
+
+<ul>
+<li>use <code>git log</code> and <code>git status</code> frequently to see where you are</li>
+</ul>
