@@ -27,7 +27,8 @@ twitter_username: mdoc007
 github_username:  drmarkoconnor
 
 # Build settings
-theme: minima
+# theme: minima
+# MOC 13//1/2020: as now a regular theme as I copied the files from ( open $(bundle info --path minima)) to the local repo folder for tinkering - I plan to use css grid etc... to play with my own theme and build skills. Good you yube on https://www.youtube.com/watch?v=8IgNO1HgCrk
 plugins:
   - jekyll-feed
 

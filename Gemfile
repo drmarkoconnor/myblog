@@ -9,7 +9,10 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # gem "jekyll", "~> 4.2.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+# gem "minima", "~> 2.5"
+
+# MOC 13//1/2020: as now a regular theme as I copied the files from ( open $(bundle info --path minima)) to the local repo folder for tinkering - I plan to use css grid etc... to play with my own theme and build skills. Good you yube on https://www.youtube.com/watch?v=8IgNO1HgCrk
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
