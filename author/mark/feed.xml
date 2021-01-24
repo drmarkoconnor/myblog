@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://drmarkoconnor.github.io/recwriter/author/mark/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://drmarkoconnor.github.io/recwriter/" rel="alternate" type="text/html" />
-  <updated>2021-01-24T23:14:38+00:00</updated>
-  <id>https://drmarkoconnor.github.io/recwriter/author/mark/feed.xml</id>
+  <link href="https://drmarkoconnor.github.io/author/mark/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-01-24T23:27:45+00:00</updated>
+  <id>https://drmarkoconnor.github.io/author/mark/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Responsive layout tips</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/tags" rel="alternate" type="text/html" title="Responsive layout tips" />
+      <link href="https://drmarkoconnor.github.io/tags" rel="alternate" type="text/html" title="Responsive layout tips" />
       <published>2020-12-25T20:11:50+00:00</published>
       <updated>2020-12-25T20:11:50+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/Christmas</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/tags">&lt;h1&gt;Responsive layouts from Kevin Powell videos&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/Christmas</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/tags">&lt;h1&gt;Responsive layouts from Kevin Powell videos&lt;/h1&gt;
 
 &lt;p&gt;
   Don’t use ems for font sizes as children will inherit and can act as a
@@ -352,11 +352,11 @@ Lorna stood and released her mother’s clammy hand. Gentle applause and soft mu
   
     <entry>
       <title type="html">More Git</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/more-git" rel="alternate" type="text/html" title="More Git" />
+      <link href="https://drmarkoconnor.github.io/more-git" rel="alternate" type="text/html" title="More Git" />
       <published>2020-12-04T20:12:21+00:00</published>
       <updated>2020-12-04T20:12:21+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/more-git</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/more-git">&lt;h1&gt;git: Merging commits from branches&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/more-git</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/more-git">&lt;h1&gt;git: Merging commits from branches&lt;/h1&gt;
 
 &lt;h2&gt;1. Fast-forward merge&lt;/h2&gt;
 
@@ -456,11 +456,11 @@ a)accept or modify the squash message&lt;/li&gt;
   
     <entry>
       <title type="html">The Good Morrow</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/the-good-morr" rel="alternate" type="text/html" title="The Good Morrow" />
+      <link href="https://drmarkoconnor.github.io/the-good-morr" rel="alternate" type="text/html" title="The Good Morrow" />
       <published>2020-08-15T20:09:49+01:00</published>
       <updated>2020-08-15T20:09:49+01:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/the-good-morr</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/the-good-morr">&lt;h1&gt;The Good-Morrow&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/the-good-morr</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/the-good-morr">&lt;h1&gt;The Good-Morrow&lt;/h1&gt;
 
 &lt;h3&gt;by john donne&lt;/h3&gt;
 
@@ -526,11 +526,11 @@ a)accept or modify the squash message&lt;/li&gt;
   
     <entry>
       <title type="html">Setting post date with $MyDate</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/setting-post" rel="alternate" type="text/html" title="Setting post date with $MyDate" />
+      <link href="https://drmarkoconnor.github.io/setting-post" rel="alternate" type="text/html" title="Setting post date with $MyDate" />
       <published>2020-02-01T19:45:06+00:00</published>
       <updated>2020-02-01T19:45:06+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/setting-post-</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/setting-post">&lt;p&gt;The date variable is set in the MyDate KA and does not have to relate to the date in the post&lt;/p&gt;</content>
+      <id>https://drmarkoconnor.github.io/setting-post-</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/setting-post">&lt;p&gt;The date variable is set in the MyDate KA and does not have to relate to the date in the post&lt;/p&gt;</content>
 
       
       
@@ -560,11 +560,11 @@ a)accept or modify the squash message&lt;/li&gt;
   
     <entry>
       <title type="html">Markup is converted to html by tiinderbox</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/git-basics" rel="alternate" type="text/html" title="Markup is converted to html by tiinderbox" />
+      <link href="https://drmarkoconnor.github.io/git-basics" rel="alternate" type="text/html" title="Markup is converted to html by tiinderbox" />
       <published>2020-01-08T20:12:28+00:00</published>
       <updated>2020-01-08T20:12:28+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/git-basics</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/git-basics">&lt;h1&gt;git: Basic git set up for new projects including making/deleting a branch&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/git-basics</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/git-basics">&lt;h1&gt;git: Basic git set up for new projects including making/deleting a branch&lt;/h1&gt;
 
 &lt;h2&gt;git [command] [--flag] [arguments]&lt;/h2&gt;
 
@@ -724,11 +724,11 @@ Execute &lt;code&gt;git reflog&lt;/code&gt; . This shows the local history of HE
   
     <entry>
       <title type="html">Set on 3/1/2020 to post on 4th January git Netowrk commands</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/network-command" rel="alternate" type="text/html" title="Set on 3/1/2020 to post on 4th January git Netowrk commands" />
+      <link href="https://drmarkoconnor.github.io/network-command" rel="alternate" type="text/html" title="Set on 3/1/2020 to post on 4th January git Netowrk commands" />
       <published>2020-01-03T20:10:46+00:00</published>
       <updated>2020-01-03T20:10:46+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/network-command</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/network-command">&lt;h1&gt;git: Network commands&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/network-command</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/network-command">&lt;h1&gt;git: Network commands&lt;/h1&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;fetch&lt;/p&gt;
@@ -783,11 +783,11 @@ Execute &lt;code&gt;git reflog&lt;/code&gt; . This shows the local history of HE
   
     <entry>
       <title type="html">Styling</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/style-tbx-mar" rel="alternate" type="text/html" title="Styling" />
+      <link href="https://drmarkoconnor.github.io/style-tbx-mar" rel="alternate" type="text/html" title="Styling" />
       <published>1999-01-01T20:18:29+00:00</published>
       <updated>1999-01-01T20:18:29+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/style-tbx-mar</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/style-tbx-mar">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.Paragraph tags removed - complare the effect with the original post&lt;/p&gt;
+      <id>https://drmarkoconnor.github.io/style-tbx-mar</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/style-tbx-mar">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.Paragraph tags removed - complare the effect with the original post&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1257,11 +1257,11 @@ c.draw = function() {
   
     <entry>
       <title type="html">Enjoy tthe nearby coast</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/wow" rel="alternate" type="text/html" title="Enjoy tthe nearby coast" />
+      <link href="https://drmarkoconnor.github.io/wow" rel="alternate" type="text/html" title="Enjoy tthe nearby coast" />
       <published>1989-04-03T20:08:00+01:00</published>
       <updated>1989-04-03T20:08:00+01:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/wow</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/wow">&lt;p&gt;Visit nearby Clevedon a Victorian seaside town during your stay at the old rectory.&lt;/p&gt;</content>
+      <id>https://drmarkoconnor.github.io/wow</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/wow">&lt;p&gt;Visit nearby Clevedon a Victorian seaside town during your stay at the old rectory.&lt;/p&gt;</content>
 
       
       
@@ -1291,11 +1291,11 @@ c.draw = function() {
   
     <entry>
       <title type="html">I Have a Dream</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/i-have-a-dream" rel="alternate" type="text/html" title="I Have a Dream" />
+      <link href="https://drmarkoconnor.github.io/i-have-a-dream" rel="alternate" type="text/html" title="I Have a Dream" />
       <published>1963-08-28T11:18:00+01:00</published>
       <updated>1963-08-28T11:18:00+01:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/i-have-a-dream</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/i-have-a-dream">&lt;p&gt;I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.&lt;/p&gt;
+      <id>https://drmarkoconnor.github.io/i-have-a-dream</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/i-have-a-dream">&lt;p&gt;I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.&lt;/p&gt;
 
 &lt;p&gt;Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity.&lt;/p&gt;
 

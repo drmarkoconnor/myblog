@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://drmarkoconnor.github.io/recwriter/tag/poetry/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://drmarkoconnor.github.io/recwriter/" rel="alternate" type="text/html" />
-  <updated>2021-01-24T23:14:38+00:00</updated>
-  <id>https://drmarkoconnor.github.io/recwriter/tag/poetry/feed.xml</id>
+  <link href="https://drmarkoconnor.github.io/tag/poetry/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-01-24T23:27:45+00:00</updated>
+  <id>https://drmarkoconnor.github.io/tag/poetry/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">The Good Morrow</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/the-good-morr" rel="alternate" type="text/html" title="The Good Morrow" />
+      <link href="https://drmarkoconnor.github.io/the-good-morr" rel="alternate" type="text/html" title="The Good Morrow" />
       <published>2020-08-15T20:09:49+01:00</published>
       <updated>2020-08-15T20:09:49+01:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/the-good-morr</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/the-good-morr">&lt;h1&gt;The Good-Morrow&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/the-good-morr</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/the-good-morr">&lt;h1&gt;The Good-Morrow&lt;/h1&gt;
 
 &lt;h3&gt;by john donne&lt;/h3&gt;
 

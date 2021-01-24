@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://drmarkoconnor.github.io/recwriter/tag/post-formatting/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://drmarkoconnor.github.io/recwriter/" rel="alternate" type="text/html" />
-  <updated>2021-01-24T23:14:38+00:00</updated>
-  <id>https://drmarkoconnor.github.io/recwriter/tag/post-formatting/feed.xml</id>
+  <link href="https://drmarkoconnor.github.io/tag/post-formatting/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-01-24T23:27:45+00:00</updated>
+  <id>https://drmarkoconnor.github.io/tag/post-formatting/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Setting post date with $MyDate</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/setting-post" rel="alternate" type="text/html" title="Setting post date with $MyDate" />
+      <link href="https://drmarkoconnor.github.io/setting-post" rel="alternate" type="text/html" title="Setting post date with $MyDate" />
       <published>2020-02-01T19:45:06+00:00</published>
       <updated>2020-02-01T19:45:06+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/setting-post-</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/setting-post">&lt;p&gt;The date variable is set in the MyDate KA and does not have to relate to the date in the post&lt;/p&gt;</content>
+      <id>https://drmarkoconnor.github.io/setting-post-</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/setting-post">&lt;p&gt;The date variable is set in the MyDate KA and does not have to relate to the date in the post&lt;/p&gt;</content>
 
       
       
@@ -67,11 +67,11 @@
   
     <entry>
       <title type="html">Set on 3/1/2020 to post on 4th January git Netowrk commands</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/network-command" rel="alternate" type="text/html" title="Set on 3/1/2020 to post on 4th January git Netowrk commands" />
+      <link href="https://drmarkoconnor.github.io/network-command" rel="alternate" type="text/html" title="Set on 3/1/2020 to post on 4th January git Netowrk commands" />
       <published>2020-01-03T20:10:46+00:00</published>
       <updated>2020-01-03T20:10:46+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/network-command</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/network-command">&lt;h1&gt;git: Network commands&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/network-command</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/network-command">&lt;h1&gt;git: Network commands&lt;/h1&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;fetch&lt;/p&gt;
@@ -126,11 +126,11 @@
   
     <entry>
       <title type="html">Styling</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/style-tbx-mar" rel="alternate" type="text/html" title="Styling" />
+      <link href="https://drmarkoconnor.github.io/style-tbx-mar" rel="alternate" type="text/html" title="Styling" />
       <published>1999-01-01T20:18:29+00:00</published>
       <updated>1999-01-01T20:18:29+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/style-tbx-mar</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/style-tbx-mar">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.Paragraph tags removed - complare the effect with the original post&lt;/p&gt;
+      <id>https://drmarkoconnor.github.io/style-tbx-mar</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/style-tbx-mar">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.Paragraph tags removed - complare the effect with the original post&lt;/p&gt;
 
 &lt;hr /&gt;
 

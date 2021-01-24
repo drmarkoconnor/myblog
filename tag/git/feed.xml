@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://drmarkoconnor.github.io/recwriter/tag/git/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://drmarkoconnor.github.io/recwriter/" rel="alternate" type="text/html" />
-  <updated>2021-01-24T23:14:38+00:00</updated>
-  <id>https://drmarkoconnor.github.io/recwriter/tag/git/feed.xml</id>
+  <link href="https://drmarkoconnor.github.io/tag/git/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-01-24T23:27:45+00:00</updated>
+  <id>https://drmarkoconnor.github.io/tag/git/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Responsive layout tips</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/tags" rel="alternate" type="text/html" title="Responsive layout tips" />
+      <link href="https://drmarkoconnor.github.io/tags" rel="alternate" type="text/html" title="Responsive layout tips" />
       <published>2020-12-25T20:11:50+00:00</published>
       <updated>2020-12-25T20:11:50+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/Christmas</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/tags">&lt;h1&gt;Responsive layouts from Kevin Powell videos&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/Christmas</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/tags">&lt;h1&gt;Responsive layouts from Kevin Powell videos&lt;/h1&gt;
 
 &lt;p&gt;
   Don’t use ems for font sizes as children will inherit and can act as a
@@ -352,11 +352,11 @@ Lorna stood and released her mother’s clammy hand. Gentle applause and soft mu
   
     <entry>
       <title type="html">More Git</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/more-git" rel="alternate" type="text/html" title="More Git" />
+      <link href="https://drmarkoconnor.github.io/more-git" rel="alternate" type="text/html" title="More Git" />
       <published>2020-12-04T20:12:21+00:00</published>
       <updated>2020-12-04T20:12:21+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/more-git</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/more-git">&lt;h1&gt;git: Merging commits from branches&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/more-git</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/more-git">&lt;h1&gt;git: Merging commits from branches&lt;/h1&gt;
 
 &lt;h2&gt;1. Fast-forward merge&lt;/h2&gt;
 
@@ -456,11 +456,11 @@ a)accept or modify the squash message&lt;/li&gt;
   
     <entry>
       <title type="html">Markup is converted to html by tiinderbox</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/git-basics" rel="alternate" type="text/html" title="Markup is converted to html by tiinderbox" />
+      <link href="https://drmarkoconnor.github.io/git-basics" rel="alternate" type="text/html" title="Markup is converted to html by tiinderbox" />
       <published>2020-01-08T20:12:28+00:00</published>
       <updated>2020-01-08T20:12:28+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/git-basics</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/git-basics">&lt;h1&gt;git: Basic git set up for new projects including making/deleting a branch&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/git-basics</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/git-basics">&lt;h1&gt;git: Basic git set up for new projects including making/deleting a branch&lt;/h1&gt;
 
 &lt;h2&gt;git [command] [--flag] [arguments]&lt;/h2&gt;
 
@@ -620,11 +620,11 @@ Execute &lt;code&gt;git reflog&lt;/code&gt; . This shows the local history of HE
   
     <entry>
       <title type="html">Set on 3/1/2020 to post on 4th January git Netowrk commands</title>
-      <link href="https://drmarkoconnor.github.io/recwriter/network-command" rel="alternate" type="text/html" title="Set on 3/1/2020 to post on 4th January git Netowrk commands" />
+      <link href="https://drmarkoconnor.github.io/network-command" rel="alternate" type="text/html" title="Set on 3/1/2020 to post on 4th January git Netowrk commands" />
       <published>2020-01-03T20:10:46+00:00</published>
       <updated>2020-01-03T20:10:46+00:00</updated>
-      <id>https://drmarkoconnor.github.io/recwriter/network-command</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/recwriter/network-command">&lt;h1&gt;git: Network commands&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/network-command</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/network-command">&lt;h1&gt;git: Network commands&lt;/h1&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;fetch&lt;/p&gt;
